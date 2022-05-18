@@ -39,7 +39,7 @@
             "ALREADY_NOT_ADMIN": "_How can I make someone admin who is already admin?_",
             "DEMOTED": "_, is no longer an admin!_",
             "MUTE_DESC": "Mute the group chat. Only the admins can send a message.",
-            "MUTED": "*Group closed!*",
+            "MUTED": "*تست Group closed!*",
             "UNMUTE_DESC": "Unmute the group chat. Anyone can send a message.",
             "UNMUTED": "*Group opened*",
             "INVITE_DESC": "Provides the group's invitation link.",
